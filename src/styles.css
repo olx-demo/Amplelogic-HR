@@ -23,7 +23,7 @@
 
 .sidebar {
  
-    background: #270E5F !important ;
+    background:#373C9E !important
  
 }
 
@@ -275,7 +275,7 @@ img {
 
 
 .btn-lightnew1 a{
-     background: #11169f !important;
+     background: #373C9E !important;
     color: #fff !important;
     font-size: 13px;
     padding: 10px;
@@ -287,7 +287,7 @@ img {
 }
 
 .btn-lightnew1 a:hover{
-    background:#001341 !important;
+    background:#4B4FAE !important;
 }
 
 
@@ -331,7 +331,7 @@ img {
 
 .rwd-table tr:first-child {
   border-top: none;
-  background:#001341;
+  background:#373C9E;
   color: #fff;
 }
 
@@ -477,7 +477,7 @@ img {
 
 .sidebar .nav .nav-item.active > .nav-link:before {
 
-    background: #010ed0 !important;
+    background: #0079FF !important;
      height: 40px !important;
 
 }
@@ -486,7 +486,7 @@ img {
 
    
 
-    border-bottom: 1px solid rgb(0 35 135);
+    border-bottom:1px solid rgb(69 103 177);
 }
 
 
@@ -496,7 +496,7 @@ img {
 
 .sidebar .nav .nav-item:hover{
 
-   background: #010ed0 !important;
+   background: #0079FF !important;
 }
 
 
